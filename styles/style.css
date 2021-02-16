@@ -16,6 +16,7 @@
 }
 
 .apkkartica {
+  overflow: hidden;
   position: relative;
   width: 450px;
   min-height: 750px;
@@ -102,6 +103,7 @@
 }
 
 .item {
+  margin-top: 5px;
   width: 380px;
   height: 45px;
   min-height: 45px;
